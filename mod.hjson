@@ -1,0 +1,7 @@
+  
+name: "example-mod"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "crumbus"
+description: "dddd"
+version: "-1"
+minGameVersion: "122.1"
