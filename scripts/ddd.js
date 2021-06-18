@@ -10,4 +10,4 @@ const ddd = extend(Planet, "ddd", Planets.serpulo, 3, 1, {
     atmosphereRadOut: 0.3,
     localizedName: "ddd"
 });
-omicron.meshLoader = () => extend(HexMesh, ddd, 6, {});
+ddd.meshLoader = () => extend(HexMesh, ddd, 6, {});
