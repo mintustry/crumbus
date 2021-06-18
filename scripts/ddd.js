@@ -1,5 +1,5 @@
 
-const ddd = extend(Planet, "ddd", Planets.sun, 3, 1, {
+const ddd = extend(Planet, "ddd", Planets.serpulo, 3, 1, {
     generator: new SerpuloPlanetGenerator(),
     bloom: true,
     radius: 1,
